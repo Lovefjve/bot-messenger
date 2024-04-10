@@ -1,0 +1,96 @@
+[
+    {
+        "data": {
+            "threadID": "6498377920241119",
+            "threadName": "Ttt",
+            "participantIDs": [
+                "61555400310298",
+                "100027625873896",
+                "100047256921472"
+            ],
+            "userInfo": [
+                {
+                    "id": "61555400310298",
+                    "name": "Dương Tiễn",
+                    "firstName": "Tiễn",
+                    "vanity": "",
+                    "thumbSrc": "https://scontent.fhan5-6.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p100x100&_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_ohc=W68-22KSoz0Ab4Q8Am3&_nc_oc=Adjz6jnUxE7VMjCZO-m-RwYYwJgxHikE4qb-nyzo6f91D0-nQ0GQgKFrnMeascLnGEM&_nc_ht=scontent.fhan5-6.fna&oh=00_AfBrxGl7p2BmKKSr3o7aBzKFetlfSVtmEoVih7RRXjcXpg&oe=663DFD38",
+                    "profileUrl": "https://scontent.fhan5-6.fna.fbcdn.net/v/t1.30497-1/143086968_2856368904622192_1959732218791162458_n.png?stp=dst-png_p100x100&_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_ohc=W68-22KSoz0Ab4Q8Am3&_nc_oc=Adjz6jnUxE7VMjCZO-m-RwYYwJgxHikE4qb-nyzo6f91D0-nQ0GQgKFrnMeascLnGEM&_nc_ht=scontent.fhan5-6.fna&oh=00_AfBrxGl7p2BmKKSr3o7aBzKFetlfSVtmEoVih7RRXjcXpg&oe=663DFD38",
+                    "gender": "MALE",
+                    "type": "User",
+                    "isFriend": false,
+                    "isBirthday": false
+                },
+                {
+                    "id": "100027625873896",
+                    "name": "Gia Hiếu❤️‍🩹✔️",
+                    "firstName": "Gia",
+                    "vanity": "hieukks",
+                    "thumbSrc": "https://scontent.fhan5-10.fna.fbcdn.net/v/t39.30808-1/429980963_1432725864324929_2101495063933548536_n.jpg?stp=cp6_dst-jpg_p100x100&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=of6ELaRzwYUAb4oUkxn&_nc_ht=scontent.fhan5-10.fna&oh=00_AfB9TwhX2T--oYd5n23TvEe9D_S7GEc1ok4tcauH__8qSg&oe=661C7590",
+                    "profileUrl": "https://scontent.fhan5-10.fna.fbcdn.net/v/t39.30808-1/429980963_1432725864324929_2101495063933548536_n.jpg?stp=cp6_dst-jpg_p100x100&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=of6ELaRzwYUAb4oUkxn&_nc_ht=scontent.fhan5-10.fna&oh=00_AfB9TwhX2T--oYd5n23TvEe9D_S7GEc1ok4tcauH__8qSg&oe=661C7590",
+                    "gender": "MALE",
+                    "type": "User",
+                    "isFriend": true,
+                    "isBirthday": false
+                },
+                {
+                    "id": "100047256921472",
+                    "name": "Người dùng Facebook",
+                    "thumbSrc": "https://scontent.fhan5-6.fna.fbcdn.net/v/t1.30497-1/85215299_479381239411958_7755129104415850496_n.jpg?stp=c29.0.100.100a_dst-jpg_p100x100&_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kmwqZOMDEnIAb7YI6pd&_nc_ht=scontent.fhan5-6.fna&oh=00_AfChgnMHhi_2usWKIjawAhWe8RdULpPCDOYIB3DRm5sOug&oe=663DFC96",
+                    "profileUrl": "https://scontent.fhan5-6.fna.fbcdn.net/v/t1.30497-1/85215299_479381239411958_7755129104415850496_n.jpg?stp=c29.0.100.100a_dst-jpg_p100x100&_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kmwqZOMDEnIAb7YI6pd&_nc_ht=scontent.fhan5-6.fna&oh=00_AfChgnMHhi_2usWKIjawAhWe8RdULpPCDOYIB3DRm5sOug&oe=663DFC96",
+                    "type": "UnavailableMessagingActor",
+                    "isBirthday": false
+                }
+            ],
+            "unreadCount": 3,
+            "messageCount": 570,
+            "timestamp": "1712757468341",
+            "muteUntil": null,
+            "isGroup": true,
+            "isSubscribed": true,
+            "isArchived": false,
+            "folder": "INBOX",
+            "cannotReplyReason": null,
+            "eventReminders": [],
+            "emoji": null,
+            "color": null,
+            "nicknames": {
+                "100047256921472": "[ • ] • Lovefjve thông thái",
+                "61555400310298": "[  / ] ➺ 𝐀𝐧𝐝𝐫𝐞𝐞 𝟑.𝟎 [🐳]"
+            },
+            "adminIDs": [
+                {
+                    "id": "61555400310298"
+                },
+                {
+                    "id": "100027625873896"
+                },
+                {
+                    "id": "100047256921472"
+                }
+            ],
+            "approvalMode": false,
+            "approvalQueue": [],
+            "reactionsMuteMode": "reactions_not_muted",
+            "mentionsMuteMode": "mentions_not_muted",
+            "isPinProtected": false,
+            "relatedPageThread": null,
+            "name": "Ttt",
+            "snippet": "hi",
+            "snippetSender": "100027625873896",
+            "snippetAttachments": [],
+            "serverTimestamp": "1712757468341",
+            "imageSrc": null,
+            "isCanonicalUser": false,
+            "isCanonical": false,
+            "recipientsLoadable": true,
+            "hasEmailParticipant": false,
+            "readOnly": false,
+            "canReply": true,
+            "lastMessageType": "message",
+            "lastReadTimestamp": "1712730791828",
+            "threadType": 2
+        },
+        "time": 1712757466634
+    }
+]
